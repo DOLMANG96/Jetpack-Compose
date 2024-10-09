@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.DietApp" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.DietApp.SplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/black</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logo</item>
+        <item name="windowSplashScreenAnimationDuration">5000</item>
+        <item name="android:windowNoTitle">true</item>
+
+
+    </style>
+</resources>

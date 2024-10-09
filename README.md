@@ -1,4 +1,4 @@
-*Jetpack Compose*
+#Jetpack Compose
 
 Jetpack Compose를 이용한 다이어트 앱 
 
